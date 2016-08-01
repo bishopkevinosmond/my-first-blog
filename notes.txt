@@ -1,0 +1,5 @@
+START A WEBSITE:
+
+>django-admin startproject mysite .
+
+
